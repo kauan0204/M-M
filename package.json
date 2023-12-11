@@ -1,0 +1,19 @@
+{
+  "name": "m-m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauan0204/M-M.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauan0204/M-M/issues"
+  },
+  "homepage": "https://github.com/kauan0204/M-M#readme"
+}
